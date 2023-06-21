@@ -39,11 +39,3 @@ Contributions to the 16x2 LCD Codes repository are welcome! If you have any impr
 
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
-
-### Acknowledg
-
-Special thanks to **Abdulkaif** for creating and maintaining this repository.
-
-For more details, please visit the GitHub repository.
-
-Enjoy working with the 16x2 LCD display and exploring the provided code snippets!
