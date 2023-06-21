@@ -1,5 +1,8 @@
 # 16x2 LCD Codes
 
+![16X2 LCD](16X2_LCD.jpg)
+![16X2 LCD PINS](16X2_LCD_PINS.jpg)
+
 This repository contains code snippets and examples for interfacing with a 16x2 LCD (Liquid Crystal Display) using various microcontroller platforms. The code provides functionality to control the display and showcase different features of the LCD.
 
 
